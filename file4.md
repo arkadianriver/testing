@@ -8,5 +8,7 @@
 - Captain Cisco
 
 - Captain Archer
-- Ensign Chekov
 
+- Lieutenant Sulu
+
+- Ensign Chekov
