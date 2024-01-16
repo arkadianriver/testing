@@ -18,4 +18,6 @@
 
 - Lieutenant Wharf
 
+- Ensign Chekov
+
 - Red Shirt #21
