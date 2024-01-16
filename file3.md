@@ -14,3 +14,5 @@
 
 - Dobby
 
+- Severus Snape
+
