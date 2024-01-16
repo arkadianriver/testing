@@ -1,6 +1,5 @@
 # Star Wars characters
 
-
 - Leia Organa
 
 - Luke Skywalker
