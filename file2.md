@@ -1,9 +1,9 @@
 # Star Wars characters
 
 
-- Luke Skywalker
-
 - Leia Organa
+
+- Luke Skywalker
 
 - Han Solo
 

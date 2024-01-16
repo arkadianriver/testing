@@ -1,4 +1,3 @@
-# Star Trek captains
 
 - Captain Kirk
 
@@ -9,3 +8,5 @@
 - Captain Cisco
 
 - Captain Archer
+- Ensign Chekov
+
