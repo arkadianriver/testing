@@ -17,4 +17,3 @@
 
 - R2D2
 
-- Sheldon Cooper
