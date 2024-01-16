@@ -11,3 +11,6 @@
 - Albus Dumbledore
 
 - 'agrid
+
+- Dobby
+
