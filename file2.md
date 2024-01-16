@@ -15,3 +15,5 @@
 - C3PO
 
 - R2D2
+
+- Sheldon Cooper
