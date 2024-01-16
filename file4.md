@@ -18,3 +18,4 @@
 
 - Lieutenant Wharf
 
+- Red Shirt #21
