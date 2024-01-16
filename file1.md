@@ -8,8 +8,8 @@
 
 - item Four
 
-- item Five
+- item five
 
-- item Six
+- item six
 
-- item Seven
+- item seven
