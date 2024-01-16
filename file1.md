@@ -1,10 +1,8 @@
-# A list
+# A written list
 
+- item A
 
-- item One
+- item B
 
-
-- item Two
-
-- item Three
+- item C
   
