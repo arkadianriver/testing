@@ -1,10 +1,10 @@
 # Hogwarts characters
 
+- Ron Weasley
+
 - Harry Potter
 
 - Hermione Granger
-
-- Ron Weasley
 
 - Neville Longbottom
 
