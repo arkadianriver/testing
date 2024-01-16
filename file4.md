@@ -1,4 +1,4 @@
-# Star Trek characters
+# Star Trek captains
 
 - Captain Kirk
 
@@ -9,13 +9,3 @@
 - Captain Cisco
 
 - Captain Archer
-
-- Commander Spock
-
-- Commander Ryker
-
-- Commander LaForge
-
-- Lieutenant Wharf
-
-- Red Shirt #21
