@@ -4,3 +4,4 @@
 
 - Daffy Duck
 
+- Foghorn Leghorn
