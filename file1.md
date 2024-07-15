@@ -2,7 +2,7 @@
 
 - item A
 
-- item B
+- item B{: .highlight}
 
 - item C
 
