@@ -4,6 +4,6 @@
 
 - Daffy Duck
 
-- Foghorn Leghorn{: .highlight}
+- Foghorn Leghorn
 
 - Tweety Bird
