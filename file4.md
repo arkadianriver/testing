@@ -12,3 +12,5 @@
 - Lieutenant Sulu
 
 - Ensign Chekov
+
+- Lieutenant Worf
