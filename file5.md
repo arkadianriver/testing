@@ -9,3 +9,5 @@
 - Foghorn Leghorn
 
 - Tweety Bird
+
+- Sylvester
