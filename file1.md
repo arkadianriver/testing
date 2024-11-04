@@ -8,6 +8,9 @@
 
 - item C
 
+  - item C.1
+  - item C.2
+
 - item D
 
 - Release 1 change B
